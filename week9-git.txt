@@ -1,1 +1,2 @@
 This is line 1, Intro to Git
+This line simulates a change from a collaborator.
